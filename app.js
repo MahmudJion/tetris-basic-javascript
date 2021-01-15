@@ -12,7 +12,8 @@ document.addEventListener('DOMContentLoaded', () => {
     'red',
     'purple',
     'green',
-    'blue'
+    'blue',
+    'white'
   ]
 
   //The Tetrominoes
